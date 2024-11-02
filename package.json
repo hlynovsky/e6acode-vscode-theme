@@ -1,11 +1,24 @@
 {
   "name": "e6acode-theme",
   "displayName": "e6aCode theme",
-  "description": "color theme from github.com/hlynovsky",
+  "description": "e6acode color theme",
   "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hlynovsky/e6acode-vscode-theme"
+  },
   "engines": {
     "vscode": "^1.95.0"
   },
+  "keywords": [
+    "theme",
+    "dark theme",
+    "e6acode",
+    "e6acode-dark",
+    "e6acode-dark-theme",
+    "hlynovsky"
+
+  ],
   "categories": [
     "Themes"
   ],
